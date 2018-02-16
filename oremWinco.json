@@ -1,0 +1,83 @@
+{
+    "Produce": [
+        "apples",
+        "bananas",
+        "onion",
+        "lettuce",
+        "carrots",
+        "potatoes"
+    ],
+    "Bulk Foods": [
+        "rice",
+        "popcorn"
+    ],
+    "4": [
+        "deodorant",
+        "soap",
+        "shampoo",
+        "toothpaste",
+        "floss",
+        "razors"
+    ], 
+    "5" : [
+        "juice",
+        "ketchup",
+        "ranch"
+    ],
+    "6" : [
+        "tortillas",
+        "ramen",
+        "salsa",
+        "broth",
+        "soup",
+        "mexican foods"
+    ],
+    "7" : [
+        "tuna",
+        "seasoning",
+        "gravy packets",
+        "pasta seasoning",
+        "pasta",
+        "beans"
+    ], 
+    "8" : [
+        "peanut butter",
+        "jam",
+        "jelly",
+        "honey",
+        "flour",
+        "sugar",
+        "brown sugar",
+        "birthday candles",
+        "syrup",
+        "cake mix"
+    ],
+    "9": [
+        "cereal",
+        "oatmeal",
+        "granola bars",
+    ],
+    "Deli" : [
+        "cheese",
+        "beef",
+        "sausage"
+    ],
+    "10" : [
+        "toilet paper",
+        "paper towels"
+    ],
+    "11" : [
+        "frozen corn",
+        "frozen peas",
+        "chicken nuggets"
+    ],
+    "12": [
+        "fries",
+        "hash browns"
+    ],
+    "13": [
+        "butter",
+        "milks",
+        "yogurt"
+    ]
+}
